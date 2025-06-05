@@ -919,3 +919,7 @@ class RegresionLogistica:
       print("AUC:", roc_auc, "el clasificador es FALLIDO")
 
     return p_values[np.argmax(res)]
+
+def PobreTomi():
+  print("Pobrecito tomi")
+  return
