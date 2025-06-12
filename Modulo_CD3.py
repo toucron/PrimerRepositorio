@@ -923,3 +923,7 @@ class RegresionLogistica:
 def PobreTomi():
   print("Pobrecito tomi")
   return
+
+"""
+Nota para probar
+"""
